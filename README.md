@@ -27,14 +27,14 @@ The notebook asks for the file name and account holder's name when it runs, and 
 
 # Constraints
 
-Built using only Python fundamentals, pandas, and NumPy. No shortcuts.
+**Built using only Python fundamentals, pandas, and NumPy. No shortcuts.**
 
-No pandas-profiling, matplotlib, seaborn, or plotly
-No scikit-learn, scipy.stats, or statsmodels — z-score written by hand
-No collections.Counter — used plain dictionaries and pandas groupby instead
-No regex — all matching done with in and .str.contains
+- No pandas-profiling, matplotlib, seaborn, or plotly
+- No scikit-learn, scipy.stats, or statsmodels — z-score written by hand
+- No collections.Counter — used plain dictionaries and pandas groupby instead
+- No regex — all matching done with in and .str.contains
 
-Only pandas, NumPy, and datetime
+**Only pandas, NumPy, and datetime**
 
 # How to run it
 
@@ -56,4 +56,4 @@ To run on your own statement:
 
 # Built by
 
-Harshil Chauhan — Student, Unlox Academy
+Harshil Chauhan — Computer Science & Engineering Student, Graphic Era Deemed to be University | Unlox Academy
